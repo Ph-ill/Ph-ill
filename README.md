@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Phillip Scargill
+# 👋 Hi, I'm Phill Scargill
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Control+Systems+Engineer;Full-Stack+Developer;Open+Source+Contributor;Automation+Enthusiast" alt="Typing SVG" />
@@ -87,13 +87,9 @@ My journey spans from designing safety-critical automation systems to building m
 ## 🎯 What I'm Currently Up To
 
 - 🔧 **Exploring new Control Systems Engineering opportunities** in the Austin area
-- 📚 **Completing my BSc in Computer and IT** at Open University
 - 🚀 **Contributing to open-source projects** and building automation tools
 - 🎮 **Developing smart TV applications** and embedded systems
 - 🔒 **Focusing on system safety** and observability in automation
-
----
-
 
 ---
 
