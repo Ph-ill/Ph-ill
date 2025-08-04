@@ -29,7 +29,7 @@ My journey spans from designing safety-critical automation systems to building m
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">📱 Digestarr</h3>
+      <h3 align="center"> <a href="https://github.com/Ph-ill/Digestarr" target="_blank">📱 Digestarr</a></h3>
       <p align="center">
         <a href="https://github.com/Ph-ill/Digestarr" target="_blank">
           <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -41,7 +41,7 @@ My journey spans from designing safety-critical automation systems to building m
       <p align="center">Python tool for generating daily digests from Radarr/Sonarr. Sends messages via Telegram or WhatsApp using ChatMeBot with Flask-based configuration panel. Built for Plex, Jellyfin, or Emby server users.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🎬 Capwise</h3>
+      <h3 align="center"><a href="https://github.com/Ph-ill/Capwise" target="_blank">🎬 Capwise</a>a></h3>
       <p align="center">
         <a href="https://github.com/Ph-ill/Capwise" target="_blank">
           <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -55,7 +55,7 @@ My journey spans from designing safety-critical automation systems to building m
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🎮 Heat Death</h3>
+      <h3 align="center"><a href="https://github.com/Euphonia-Games/Heat-Death" target="_blank">🎮 Heat Death</a></h3>
       <p align="center">
         <a href="https://github.com/Euphonia-Games/Heat-Death" target="_blank">
           <img src="https://img.shields.io/badge/-Game%20Development-FF6B35?style=for-the-badge&logo=game-development&logoColor=white" alt="Game Development" />
@@ -67,7 +67,7 @@ My journey spans from designing safety-critical automation systems to building m
       <p align="center">A game about the death of a world and its inhabitants. A side scrolling exploration and adventure video game created with Aseprite, Wick Editor, GIMP & Audacity.</p>
     </td>
     <td width="50%">
-      <h3 align="center">📺 Anon-TV</h3>
+      <h3 align="center"><a href="https://github.com/Ph-ill/Anon-TV" target="_blank">📺 Anon-TV</a></h3>
       <p align="center">
         <a href="https://github.com/Ph-ill/Anon-TV" target="_blank">
           <img src="https://img.shields.io/badge/-Google%20TV-3DDC84?style=for-the-badge&logo=android-tv&logoColor=white" alt="Google TV" />
