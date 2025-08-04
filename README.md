@@ -36,16 +36,19 @@ My journey spans from designing safety-critical automation systems to building m
           <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
         </a>
       </p>
-      <p align="center">Automated daily digest generator for Radarr/Sonarr with Telegram/WhatsApp integration</p>
+      <p align="center">Python tool for generating daily digests from Radarr/Sonarr. Sends messages via Telegram or WhatsApp using ChatMeBot with Flask-based configuration panel. Built for Plex, Jellyfin, or Emby server users.</p>
     </td>
     <td width="50%">
-      <h3 align="center">🎓 Capwise</h3>
+      <h3 align="center">🎬 Capwise</h3>
       <p align="center">
         <a href="https://github.com/Ph-ill/Capwise" target="_blank">
-          <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+          <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        </a>
+        <a href="https://github.com/Ph-ill/Capwise" target="_blank">
+          <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
         </a>
       </p>
-      <p align="center">Educational flashcard app with browser extension-like UI and offline-first architecture</p>
+      <p align="center">A full-stack web app for personalized movie discovery. Swipe through suggestions, build a taste profile, and get intelligent recommendations. Built with React, Node.js, Express.js, and NeDB, integrating with the TMDB API.</p>
     </td>
   </tr>
   <tr>
@@ -53,22 +56,25 @@ My journey spans from designing safety-critical automation systems to building m
       <h3 align="center">🎮 Heat Death</h3>
       <p align="center">
         <a href="https://github.com/Euphonia-Games/Heat-Death" target="_blank">
-          <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+          <img src="https://img.shields.io/badge/-Game%20Development-FF6B35?style=for-the-badge&logo=game-development&logoColor=white" alt="Game Development" />
         </a>
         <a href="https://github.com/Euphonia-Games/Heat-Death" target="_blank">
-          <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+          <img src="https://img.shields.io/badge/-Aseprite-7D929E?style=for-the-badge&logo=aseprite&logoColor=white" alt="Aseprite" />
         </a>
       </p>
-      <p align="center">Unity game with procedural generation and modular components</p>
+      <p align="center">A game about the death of a world and its inhabitants. A side scrolling exploration and adventure video game created with Aseprite, Wick Editor, GIMP & Audacity.</p>
     </td>
     <td width="50%">
       <h3 align="center">📺 Anon-TV</h3>
       <p align="center">
         <a href="https://github.com/Ph-ill/Anon-TV" target="_blank">
+          <img src="https://img.shields.io/badge/-Google%20TV-3DDC84?style=for-the-badge&logo=android-tv&logoColor=white" alt="Google TV" />
+        </a>
+        <a href="https://github.com/Ph-ill/Anon-TV" target="_blank">
           <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
         </a>
       </p>
-      <p align="center">Android TV browsing app optimized for remote interaction and performance</p>
+      <p align="center">Google TV application for seamlessly browsing imageboard content, including webm and images, directly on your TV.</p>
     </td>
   </tr>
 </table>
