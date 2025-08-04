@@ -71,7 +71,7 @@ My journey spans from designing safety-critical automation systems to building m
           <img src="https://img.shields.io/badge/-Google%20TV-3DDC84?style=for-the-badge&logo=android-tv&logoColor=white" alt="Google TV" />
         </a>
         <a href="https://github.com/Ph-ill/Anon-TV" target="_blank">
-          <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+          <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
         </a>
       </p>
       <p align="center">Google TV application for seamlessly browsing imageboard content, including webm and images, directly on your TV.</p>
