@@ -4,13 +4,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Control+Systems+Engineer;Full-Stack+Developer;Open+Source+Contributor;Automation+Enthusiast" alt="Typing SVG" />
 </div>
 
----
-
 ## 🚀 About Me
 
 I'm a **Control Systems Engineer** with over 7 years of hands-on expertise in industrial automation, manufacturing, and energy sectors. Based in Austin, TX, I specialize in PLC programming, SCADA/HMI development, and full-stack software engineering.
 
 My journey spans from designing safety-critical automation systems to building modern web applications and open-source tools. I'm passionate about **automation**, **system observability**, and creating solutions that make complex processes simple.
+
+---
 
 ### 🛠️ Tech Stack
 
@@ -21,6 +21,8 @@ My journey spans from designing safety-critical automation systems to building m
   ![RsLogix](https://img.shields.io/badge/-RsLogix%205/500/5000-007ACC?style=flat-square&logo=rockwell-automation) ![TIA Portal](https://img.shields.io/badge/-TIA%20Portal-FF6B35?style=flat-square&logo=siemens) ![Simatic S7](https://img.shields.io/badge/-Simatic%20S7-009999?style=flat-square&logo=siemens) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
   
 </div>
+
+---
 
 ### 🎯 Featured Projects
 
