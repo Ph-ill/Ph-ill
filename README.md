@@ -81,15 +81,6 @@ My journey spans from designing safety-critical automation systems to building m
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ph-ill&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ph-ill&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🎯 What I'm Currently Up To
 
 - 🔧 **Exploring new Control Systems Engineering opportunities** in the Austin area
