@@ -41,7 +41,7 @@ My journey spans from designing safety-critical automation systems to building m
       <p align="center">Python tool for generating daily digests from Radarr/Sonarr. Sends messages via Telegram or WhatsApp using ChatMeBot with Flask-based configuration panel. Built for Plex, Jellyfin, or Emby server users.</p>
     </td>
     <td width="50%">
-      <h3 align="center"><a href="https://github.com/Ph-ill/Capwise" target="_blank">🎬 Capwise</a>a></h3>
+      <h3 align="center"><a href="https://github.com/Ph-ill/Capwise" target="_blank">🎬 Capwise</a></h3>
       <p align="center">
         <a href="https://github.com/Ph-ill/Capwise" target="_blank">
           <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
