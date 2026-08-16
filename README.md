@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Phill Scargill
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Automation+%26+Control+Specialist;Control+Systems+Engineer;Full-Stack+Developer;Open+Source+Contributor;Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Controls+Specialist;Control+Systems+Engineer;Full-Stack+Developer;Open+Source+Contributor;Automation+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
