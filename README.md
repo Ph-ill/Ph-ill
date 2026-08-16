@@ -1,14 +1,18 @@
 # 👋 Hi, I'm Phill Scargill
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=435&lines=Control+Systems+Engineer;Full-Stack+Developer;Open+Source+Contributor;Automation+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=4F8CC9&center=true&vCenter=true&width=500&lines=Automation+%26+Controls+Specialist;Control+Systems+Engineer;Full-Stack+Developer;Open+Source+Contributor;Automation+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a **Control Systems Engineer** with over 7 years of hands-on expertise in industrial automation, manufacturing, and energy sectors. Based in Austin, TX, I specialize in PLC programming, SCADA/HMI development, and full-stack software engineering.
+I'm an **Automation & Controls Specialist at SpaceX**, working on industrial automation and manufacturing systems supporting **Starlink production** in Texas.
 
-My journey spans from designing safety-critical automation systems to building modern web applications and open-source tools. I'm passionate about **automation**, **system observability**, and creating solutions that make complex processes simple.
+I have over **7 years of hands-on experience** in controls engineering, industrial automation, manufacturing, and energy, with a background spanning PLC programming, SCADA/HMI development, commissioning, troubleshooting, and full-stack software engineering.
+
+My work has taken me from designing and commissioning industrial control systems to supporting highly automated, high-volume manufacturing environments. Alongside controls engineering, I enjoy building software, self-hosted infrastructure, and open-source tools that bridge the gap between traditional industrial automation and modern software.
+
+I'm particularly passionate about **automation**, **system observability**, **industrial software**, and finding elegant ways to make complex systems easier to understand, maintain, and operate.
 
 ---
 
@@ -85,10 +89,11 @@ My journey spans from designing safety-critical automation systems to building m
 
 ## 🎯 What I'm Currently Up To
 
-- 🔧 **Exploring new Control Systems Engineering opportunities** in the Austin area
-- 🚀 **Contributing to open-source projects** and building automation tools
-- 🎮 **Developing smart TV applications** and embedded systems
-- 🔒 **Focusing on system safety** and observability in automation
+- 🚀 **Working as an Automation & Controls Specialist at SpaceX**, supporting highly automated Starlink manufacturing systems
+- 🔧 **Designing, troubleshooting, and improving industrial automation systems** across PLC, HMI, motion, controls, and manufacturing equipment
+- 🧠 **Exploring the intersection of industrial automation, AI, and modern software**
+- 🛠️ **Building open-source tools, self-hosted infrastructure, and automation projects**
+- 🔒 **Focusing on reliability, system observability, and maintainable controls architecture**
 
 ---
 
@@ -104,4 +109,4 @@ My journey spans from designing safety-critical automation systems to building m
   
   <img src="https://komarev.com/ghpvc/?username=Ph-ill&style=flat-square&color=blue" alt="Profile Views" />
   
-</div> 
+</div>
